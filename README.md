@@ -66,7 +66,7 @@ You can specify different subjects as per your Prompt Template. To run the chain
 chain.run(subject="urban photography")
 ```
 
-You can instruct GPT-4 to create different types of prompts based on your message to it. You can specify styles, the token length, subjects, or anything else and with Flush's chains, powerful applications. For more details on using our data integrations and other use cases of Flush, check out our [docs](https://docs.flushai.cloud/introduction)
+You can instruct GPT-4 to create different types of prompts based on your message to it. You can specify styles, the token length, subjects, or anything else and with Flush's chains, you can build powerful applications. For more details on using our data integrations and other use cases of Flush, check out our [docs](https://docs.flushai.cloud/introduction)
 
 ---
 ## Support
