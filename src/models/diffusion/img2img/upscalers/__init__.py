@@ -1,0 +1,1 @@
+from flushai.models.diffusion.img2img.upscalers.real_esrgan import RealESRGAN

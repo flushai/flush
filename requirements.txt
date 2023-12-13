@@ -1,0 +1,13 @@
+dropbox==11.36.2
+fitz==0.0.1.dev2
+google_api_python_client==2.104.0
+google_auth_oauthlib==1.1.0
+opencv_python==4.8.0.74
+pexels_api==1.0.1
+Pillow==9.4.0
+Pillow==10.1.0
+pillow_heif==0.13.1
+protobuf==4.25.0
+pytube==15.0.0
+Requests==2.31.0
+setuptools==68.2.2
